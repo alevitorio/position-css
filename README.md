@@ -1,7 +1,3 @@
-Aqui está um conteúdo descontraído e contextualizado sobre `position` no CSS para seus alunos! 🚀🎨  
-
----
-
 # 🎯 CSS `position` - Dominando o Espaço!  
 
 O `position` no CSS define **como um elemento é posicionado na página**. Se você já tentou alinhar algo e nada ficava onde deveria, essa propriedade vai salvar sua vida! 🤯  
